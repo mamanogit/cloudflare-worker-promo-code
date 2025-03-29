@@ -1,0 +1,5 @@
+name = "cloudflare-worker-promo-code"
+type = "javascript"
+workers_dev = true
+compatibility_date = "2023-03-28"  # Substitua pela data atual ou uma data futura
+main = "index.js"  # Caminho para o arquivo principal do Worker
